@@ -1,2 +1,2 @@
 # js-chess
-'livecode' copy with Ania Kubow to practise JS
+'Livecode' copy-along with Ania Kubow on YouTube to practise some basic JS!
